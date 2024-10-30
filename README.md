@@ -6,6 +6,9 @@
     <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logColor=white" alt="TG Badge"/>
   </a>
 </div>
+<div id="viewprof" align="center" >
+    <img src="https://komarev.com/ghpvc/?username=Alexsuzztse&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **Alexsuzztse/Alexsuzztse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,6 +17,16 @@
 - 🧠: Факт обо мне: Увлекаюсь эзотерикой
 - 👩‍✈️: Факт обо мне: Айтишница
 - 🚴‍♀️: Факт обо мне: Шарю от порчи до построения бизнес-процесса
+
+### 🛠️: Языки и инструменты :
+
+<div>
+ <img src "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" wight"40" height"40"/>
+ <img src "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" wight"40" height"40"/>
+ <img src "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" wight"40" height"40"/>
+ <img src "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" wight"40" height"40"/>
+ <img src "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" wight"40" height"40"/>
+</div>
 <!--
 **Alexsuzztse/Alexsuzztse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

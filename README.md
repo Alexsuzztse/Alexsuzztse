@@ -9,6 +9,9 @@
 <div id="viewprof" align="center" >
     <img src="https://komarev.com/ghpvc/?username=Alexsuzztse&style=flat-square&color=blue" alt=""/>
 </div>
+<div id="heythere" align="center">
+  <h1> Профиль на GITHUB </h1>
+</div>
 
 <!--
 **Alexsuzztse/Alexsuzztse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

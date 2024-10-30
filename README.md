@@ -1,7 +1,7 @@
-<div id "badges" align ="center">
-<a href= "https://t.me/Alectse">
-<img scr = "https://img.shields.io/badge/TG-blue?style=for-the-badge&logo=TG&logoColor=white" alt="TG Badge"/>
-</a>
+ <div id="badges" style="text-align: center;">
+  <a href="https://t.me/Alectse">
+    <img src="https://img.shields.io/badge/TG-blue?style=for-the-badge&logo=TG&logoColor=white" alt="TG Badge" />
+  </a>
 </div>
 
 <!--

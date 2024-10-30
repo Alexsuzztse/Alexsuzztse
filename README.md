@@ -29,6 +29,9 @@
 </div>
 
 ### 🏆: Достижения:
+<div>
+ <img src "https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=Alexsuzztse" alt=""/>
+</div>
 <!--
 **Alexsuzztse/Alexsuzztse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

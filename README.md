@@ -15,7 +15,7 @@
 
 ### 👩‍💻: Обо мне : Я Краснова Александра Глебовна
 ### 🧠: Факт обо мне: Увлекаюсь эзотерикой
-### 👩‍✈️: Факт обо мне: Айтишница
+Markdown 👩‍✈️: Факт обо мне: Айтишница
 ### 🚴‍♀️: Факт обо мне: 
 <!--
 **Alexsuzztse/Alexsuzztse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

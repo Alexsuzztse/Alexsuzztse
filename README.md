@@ -27,6 +27,8 @@
  <img src "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" wight"40" height"40"/>
  <img src "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" wight"40" height"40"/>
 </div>
+
+### 🏆: Достижения:
 <!--
 **Alexsuzztse/Alexsuzztse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

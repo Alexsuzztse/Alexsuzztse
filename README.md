@@ -1,4 +1,8 @@
-## Hi there 👋
+<div id "badges" align ="center">
+<a href= "https://t.me/Alectse">
+<img scr = "https://img.shields.io/badge/TG-blue?style=for-the-badge&logo=TG&logoColor=white" alt="TG Badge"/>
+</a>
+</div>
 
 <!--
 **Alexsuzztse/Alexsuzztse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

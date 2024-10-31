@@ -30,7 +30,7 @@
 
 ### 🏆: Достижения:
 <div>
- <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=Alexsuzztse" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alexsuzztse" alt=""/>
 </div>
 
 ### ⌨️: Часто используемые языки:

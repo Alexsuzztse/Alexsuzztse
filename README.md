@@ -14,18 +14,21 @@
 </div>
 
 ### 👩‍💻: Обо мне : Я Краснова Александра Глебовна
-- 🧠: Факт обо мне: Увлекаюсь эзотерикой
-- 👩‍✈️: Факт обо мне: Айтишница
-- 🚴‍♀️: Факт обо мне: Шарю от порчи до построения бизнес-процесса
+- 🧠:Начинающий программист верующий в вибрации вселенной
+- 👩‍✈️: js,php,sql,c++,c#,1C
+- 🚴‍♀: Люблю спорт, разбираюсь начиная со сглаза, заканчивая построением бизнес-процессов
 
 ### 🛠️: Языки и инструменты :
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+ <img src=" https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
+ 
 </div>
 
 ### 🏆: Достижения:

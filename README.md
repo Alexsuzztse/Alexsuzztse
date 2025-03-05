@@ -13,7 +13,7 @@
   <h1> Профиль на GITHUB </h1>
 </div>
 
-### 👩‍💻: Обо мне : Я Краснова Александра Глебовна
+### 👩‍💻: Обо мне : Я Саша
 - 🧠:Начинающий программист верующий в вибрации вселенной
 - 👩‍✈️: js,php,sql,c++,c#,1C
 - 🚴‍♀: Люблю спорт, разбираюсь начиная со сглаза, заканчивая построением бизнес-процессов
@@ -40,8 +40,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsuzztse" alt=""/>
 </div>
 <div>
- markdown
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt=""/>
 </div>
 
 ### 📊: Статистика активности:

@@ -34,16 +34,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Alexsuzztse" alt=""/>
 </div>
 
-### ⌨️: Часто используемые языки:
+### ⌨️: Language:
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsuzztse" alt=""/>
 </div>
+### 📊: Что-то про статистику?
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt=""/>
 </div>
 
-### 📊: Статистика активности:
+### 📊: Активность:
 <div>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexsuzztse&theme=dracula" alt=""/>
 </div>

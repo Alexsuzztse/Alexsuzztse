@@ -42,7 +42,7 @@
 
 💡: Что-то про статистику?
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alexsuzztse&show_icons=true&theme=radical" alt=""/>
 </div>
 
 ### 📊: Активность:
